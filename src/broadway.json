@@ -1,31 +1,125 @@
+/* #comments
+
+assurance
+assertion
+attestation
+declaration
+guarantee
+oath
+statement
+proclamation
+promise
+vow
+
+basis
+cause
+cognition
+concept
+element
+goal
+ground
+idea
+intellect
+intelligence
+intention
+leitmotif
+logic
+motif
+motive
+objective
+occasion
+purpose
+reason
+reasoning
+thought
+topic
+
+asking
+examination
+grill
+inquiry
+interrogation
+query
+question
+quiz
+
+conceivably
+perchance
+perhaps
+possibly
+
+commitment
+decision
+decree
+determination
+judgment
+pronouncement
+resolution
+ruling
+sentence
+settlement
+verdict
+
+action
+activity
+circumstance
+development
+happening
+phenomenon
+
+association
+calculation
+connection
+equality
+equation
+equalization
+equivalence
+identification
+question
+sum
+
+anthipathetic
+contradiction
+cynical
+defeatist
+dismissive
+fatalistic
+gloomy
+negative
+obstructive
+pessimistic
+rejection
+veto
+
+*/
 {
   "a": {
     "_default": "assurance",
-    "Shǒu": "",
-    "Tián": "",
-    "Shuǐ": "",
+    "Shǒu": "identification",
+    "Tián": "guarantee",
+    "Shuǐ": "quiz",
     "Kǒu": "guarantee",
-    "Niàn": "",
-    "Bo": "",
-    "Shān": "",
-    "Gē": "",
-    "Rén": "",
+    "Niàn": "conceivibly",
+    "Bo": "vow",
+    "Shān": "pronouncement",
+    "Gē": "oath",
+    "Rén": "purpose",
     "Xīn": "pronouncement",
-    "Rì": "",
-    "Shī": "",
-    "Mù": "",
-    "Huǒ": "",
-    "Tǔ": "",
-    "Zhú": "",
-    "Shí": "",
-    "Dà": "",
-    "Zhōng": "",
+    "Rì": "happening",
+    "Shī": "sum",
+    "Mù": "contradiction",
+    "Huǒ": "cause",
+    "Tǔ": "concept",
+    "Zhú": "motive",
+    "Shí": "topic",
+    "Dà": "statment",
+    "Zhōng": "question",
     "Nán": "equalization",
-    "Jīn": "",
-    "Nǚ": "",
-    "Yuè": "",
-    "Gōng": "",
-    "Yī": ""
+    "Jīn": "cognition",
+    "Nǚ": "calculation",
+    "Yuè": "commitment",
+    "Gōng": "cognition",
+    "Yī": "thought"
   },
   "ka": {
     "_default": "",
