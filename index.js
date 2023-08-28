@@ -18,7 +18,7 @@ program.command('parse')
 
     p.result.forEach((_h_word) => {
       if (_h_word._children.length === 3) {
-        let w = _h_word._children[2];
+        let w = _h_word._children[2].wide;
 
         result.push({ word: broadway[_h_word.wide][w],  _children: _h_word });
       } else {
