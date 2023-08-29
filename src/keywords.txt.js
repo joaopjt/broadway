@@ -1,0 +1,91 @@
+Intuition // intuition
+Interaktion // interaction
+
+Sicherheit // assurance
+Behauptung // assertion
+Bescheinigung // attestation
+Erklärung // declaration
+Garantie // guarantee
+Eid // oath
+Stellungnahme // statement
+Proklamation // proclamation
+versprechen // promise
+Gelübde // vow
+
+Basis // basis
+Ursache // cause
+Erkenntnis // cognition
+Konzept // concept
+Element // element
+Ziel // goal
+Boden // ground
+Idee // idea
+Intellekt // intellect
+Intelligenz // intelligence
+Absicht // intention
+Leitmotiv // leitmotif
+Logik // logic
+Motiv // motive
+Zielsetzung // objective
+Gelegenheit // occasion
+Zweck // purpose
+Grund // reason
+Argumentation // reasoning
+Gedanke // thought
+Thema // topic
+
+fragen // asking
+Untersuchung // examination
+Grill // grill
+Anfrage // inquiry
+Verhör // interrogation
+Abfrage // query
+Frage // question
+Quiz // quiz
+
+denkbar // conceivably
+vielleicht // perchance
+möglicherweise // possibly
+
+Engagement // commitment
+Entscheidung // decision
+Dekret // decree
+Bestimmung // determination
+Beurteilung // judgment
+Verkündung // pronouncement
+Auflösung // resolution
+Urteil // ruling
+Satz // sentence
+Siedlung // settlement
+Urteil // verdict
+
+Aktion // action
+Aktivität // activity
+Umstand // circumstance
+Entwicklung // development
+Ereignis // happening
+Phänomen // phenomenon
+
+Verband // association
+Berechnung // calculation
+Verbindung // connection
+Gleichwertigkeit // equality
+Gleichung // equation
+Ausgleich // equalization
+Gleichwertigkeit // equivalence
+Identifikation // identification
+Frage // question
+Summe // sum
+
+antipathisch // anthipathetic
+Widerspruch // contradiction
+zynisch // cynical
+defätistisch // defeatist
+abweisend // dismissive
+fatalistisch // fatalistic
+düster // gloomy
+Negativ // negative
+hinderlich // obstructive
+pessimistisch // pessimistic
+Ablehnung // rejection
+Einspruch // veto

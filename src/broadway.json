@@ -1,125 +1,126 @@
 /* #comments
 
-assurance
-assertion
-attestation
-declaration
-guarantee
-oath
-statement
-proclamation
-promise
-vow
+Intuition // intuition
+Interaktion // interaction
 
-basis
-cause
-cognition
-concept
-element
-goal
-ground
-idea
-intellect
-intelligence
-intention
-leitmotif
-logic
-motif
-motive
-objective
-occasion
-purpose
-reason
-reasoning
-thought
-topic
+Sicherheit // assurance
+Behauptung // assertion
+Bescheinigung // attestation
+Erklärung // declaration
+Garantie // guarantee
+Eid // oath
+Stellungnahme // statement
+Proklamation // proclamation
+versprechen // promise
+Gelübde // vow
 
-asking
-examination
-grill
-inquiry
-interrogation
-query
-question
-quiz
+Basis // basis
+Ursache // cause
+Erkenntnis // cognition
+Konzept // concept
+Element // element
+Ziel // goal
+Boden // ground
+Idee // idea
+Intellekt // intellect
+Intelligenz // intelligence
+Absicht // intention
+Leitmotiv // leitmotif
+Logik // logic
+Motiv // motive
+Zielsetzung // objective
+Gelegenheit // occasion
+Zweck // purpose
+Grund // reason
+Argumentation // reasoning
+Gedanke // thought
+Thema // topic
 
-conceivably
-perchance
-perhaps
-possibly
+fragen // asking
+Untersuchung // examination
+Grill // grill
+Anfrage // inquiry
+Verhör // interrogation
+Abfrage // query
+Frage // question
+Quiz // quiz
 
-commitment
-decision
-decree
-determination
-judgment
-pronouncement
-resolution
-ruling
-sentence
-settlement
-verdict
+denkbar // conceivably
+vielleicht // perchance
+möglicherweise // possibly
 
-action
-activity
-circumstance
-development
-happening
-phenomenon
+Engagement // commitment
+Entscheidung // decision
+Dekret // decree
+Bestimmung // determination
+Beurteilung // judgment
+Verkündung // pronouncement
+Auflösung // resolution
+Urteil // ruling
+Satz // sentence
+Siedlung // settlement
+Urteil // verdict
 
-association
-calculation
-connection
-equality
-equation
-equalization
-equivalence
-identification
-question
-sum
+Aktion // action
+Aktivität // activity
+Umstand // circumstance
+Entwicklung // development
+Ereignis // happening
+Phänomen // phenomenon
 
-anthipathetic
-contradiction
-cynical
-defeatist
-dismissive
-fatalistic
-gloomy
-negative
-obstructive
-pessimistic
-rejection
-veto
+Verband // association
+Berechnung // calculation
+Verbindung // connection
+Gleichwertigkeit // equality
+Gleichung // equation
+Ausgleich // equalization
+Gleichwertigkeit // equivalence
+Identifikation // identification
+Frage // question
+Summe // sum
+
+antipathisch // anthipathetic
+Widerspruch // contradiction
+zynisch // cynical
+defätistisch // defeatist
+abweisend // dismissive
+fatalistisch // fatalistic
+düster // gloomy
+Negativ // negative
+hinderlich // obstructive
+pessimistisch // pessimistic
+Ablehnung // rejection
+Einspruch // veto
 
 */
 {
   "a": {
-    "_default": "assurance",
-    "Shǒu": "identification",
-    "Tián": "guarantee",
-    "Shuǐ": "quiz",
-    "Kǒu": "guarantee",
-    "Niàn": "conceivibly",
-    "Bo": "vow",
-    "Shān": "pronouncement",
-    "Gē": "oath",
-    "Rén": "purpose",
-    "Xīn": "pronouncement",
-    "Rì": "happening",
-    "Shī": "sum",
-    "Mù": "contradiction",
-    "Huǒ": "cause",
-    "Tǔ": "concept",
-    "Zhú": "motive",
-    "Shí": "topic",
-    "Dà": "statment",
-    "Zhōng": "question",
-    "Nán": "equalization",
-    "Jīn": "cognition",
-    "Nǚ": "calculation",
-    "Yuè": "commitment",
-    "Gōng": "cognition",
-    "Yī": "thought"
+    "_default": "Ablejnung",
+    "Shǒu": "Verband",
+    "Tián": "Intelligenz",
+    "Shuǐ": "Verhor",
+    "Kǒu": "Element",
+    "Niàn": "Interaktion",
+    "Bo": "Dekret",
+    "Shān": "Gelubde",
+    "Gē": "Interaktion",
+    "Rén": "Gelegenheit",
+    "Xīn": "",
+    "Rì": "",
+    "Shī": "",
+    "Mù": "",
+    "Huǒ": "",
+    "Tǔ": "",
+    "Zhú": "",
+    "Shí": "",
+    "Dà": "",
+    "Zhōng": "",
+    "Nán": "",
+    "Jīn": "",
+    "Nǚ": "",
+    "Yuè": "",
+    "Gōng": "",
+    "Yī": ""
   },
   "ka": {
     "_default": "",
@@ -964,7 +965,7 @@ veto
     "Yī": ""
   },
   "su": {
-    "_default": "",
+    "_default": "Quiz",
     "Shǒu": "",
     "Tián": "",
     "Shuǐ": "",
